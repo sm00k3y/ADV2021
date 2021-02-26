@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/0_First Steps/0-First Steps-Jakub Smolka.unity
     guid: 0654767c80be63c438da18b218c36d80
-  - enabled: 1
+  - enabled: 0
     path: Assets/00_Lesson2/Lesson3.unity
     guid: accb77f96f9418f4e9af0cedb60c1368
+  - enabled: 1
+    path: Assets/00_Lesson3/Lesson3.unity
+    guid: a4455d89d74210848a71c8fab5fcde15
   m_configObjects: {}
