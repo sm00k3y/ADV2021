@@ -4003,10 +4003,10 @@ MonoBehaviour:
   - {fileID: -8491777310825809036}
   - {fileID: -1110259596282680818}
   - {fileID: 3904814937355615296}
-  m_FixedDuration: 0
+  m_FixedDuration: 9.912985010072
   m_EditorSettings:
     m_Framerate: 60
-  m_DurationMode: 0
+  m_DurationMode: 1
   m_MarkerTrack: {fileID: -9191081260678536989}
 --- !u!114 &338507060093435647
 MonoBehaviour:
