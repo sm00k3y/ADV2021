@@ -18,7 +18,7 @@ public class ShootBall : MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.Space))
         {
-            ball.AddForce(transform.right * 1000f);
+            ball.AddForce(transform.right * 800f);
         }
     }
 }
