@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1612029532358596760
+--- !u!114 &-6224219752087366562
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -60,4 +60,4 @@ MonoBehaviour:
   m_Name: Main Camera Profile
   m_EditorClassIdentifier: 
   components:
-  - {fileID: -1612029532358596760}
+  - {fileID: -6224219752087366562}
