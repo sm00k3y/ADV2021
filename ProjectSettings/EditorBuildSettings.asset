@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/00_Project3/SpaceBattle.unity
     guid: 4e93ef3014609c34998fd936e5161f56
+  - enabled: 1
+    path: Assets/00_Lesson9/Ninja/Lesson9.unity
+    guid: a431870e7d817854499570382d4c615a
   m_configObjects: {}
